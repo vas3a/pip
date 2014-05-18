@@ -1,0 +1,32 @@
+<bancuri>
+	
+	<banc category="Calculatoare">
+		<title>Punct</title>
+		<data>@@Semnele de la tastatura s-au gandit sa dea o petrecere, dar nu voiau sa-l invite pe Punct. Punctul isi ia inima in dinti si pleaca la petrecere. La poarta, bodygarzi Escape si Delete: 
+			##- Cine esti tu? 
+			##- Eu sunt steluta, dar m-am dat cu gel.
+		</data>
+		
+		<title>Install</title>
+		<data>@@Un Maybach mare la stop.Un Tico vine cu viteza din spatele lui si il busheste. Pe ecranul computerului de bord apare:
+				##New hardware found!!! Install??
+		</data>
+		
+		<title>Link</title>
+		<data>@@Doi programatori pe chat:##
+			-Uite, ce fain ninge afara!
+			-Da-mi link.
+		</data>
+					
+		<title>Bec</title>
+		<data>@@De cati programatori este nevoie pentru a infileta un bec?##
+			De nici unul.. problema e de hard!
+		</data>
+		
+		<title>Warning</title>
+		<data>@@Doi programatori isi cumparau tigari.##
+			 - Ba, ia uite ce zice aici, pe pachet, cica "Avertisment: Fumatul poate cauza cancer pulmonar!"##
+			 - Lasa, ba, warningurile, zi numai erorile.
+		</data>
+	</banc>
+</bancuri>

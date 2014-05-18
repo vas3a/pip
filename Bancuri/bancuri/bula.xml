@@ -1,0 +1,121 @@
+<bancuri>
+	
+	<banc category="Bula">
+		<title>La scoala</title>
+		<data>@@O profesoara noua intra in clasa si spune:##
+			 ##-Cine se crede prost sa se ridice in picioare. Dupa cateva secunde bula se ridica in picioare
+			 ##-Te crezi prost bula?(intreaba profesoara) La care bula raspunde:
+			 ## -Nu doamna dar ma simteam rusinat sa stati doar dumneavoastra in picioare
+		</data>
+		
+		<title>Trabantul</title>
+		<data>@@ Bula suna la politie: 
+				##- Mi s-a furat masina. Dimineata, cand m-am trezit, nu mi-am mai gasit Trabantul, ci numai husa. 
+				##Politistii: 
+				##- Ati scuturat bine husa? 
+		</data>
+		
+		<title>Ora Biologie</title>
+		<data>@@- Bula, imi poti numi cinci animale care traiesc in Africa? 
+				##-Patru elefanti si o girafa.
+		</data>
+		
+		<title>Visul</title>
+		<data>@@Bula merge la medic... ##
+			- Care e problema ta, tinere?## 
+			- Vedeti, visez de 2 saptamani gaini care joaca footbal...##  
+			- Da... ia acum aceste pastile ca sa nu mai visezi gaini care joaca fotbal## 
+			- Pot sa le iau maine? Ca azi e finala si nu vreau sa o ratez.
+		</data>
+		
+		<title>Mos Craciun in criza</title>
+		<data>@@Mosu:##- Ma simt naspa! Am mers singur in luna de miere ca sa economisesc jumatate din bani! 
+				##@@Bula: 
+				##- Mai ai de invatat! Eu am economisit toata suma! Am trimis-o pe nevasta-mea in luna de miere cu un prieten!
+		</data>
+				
+		<title>Ora de religie</title>
+		<data>@@- Bula, cate porunci exista? - intreba profesorul la ora de religie.## 
+				- Zece, domnule profesor.## 
+				- Si ce se intampla daca nu respecti una dintre ele? ##
+				- Raman noua...
+		</data>
+				
+		<title>Cazatura</title>
+		<data>@@Pica Bula de la etajul 4! Vine doctorul il baga in ambulanta si ca sa isi mai revina, doctorul ii da un pahar cu apa.## 
+			@@Zice Bula:## 
+			- De la ce etaj trebuie sa pic ca sa primesc si eu un pahar cu whisky?
+		
+		</data>
+		
+		<title>Minciuna</title>
+		<data>@@Profesoara: ##
+			- Daca zic "am fost bogata" e la trecut. Dar daca zic: "sunt frumoasa", ce e? 
+			##@@Bula:## 
+			- O mare minciuna, doamna.
+		</data>
+		
+		<title>Bubulina</title>
+		<data>@@Bubulina:## 
+			- Bula! Suntem casatoriti de 20 de ani si nu mi-ai cumparat niciodata nimic. 
+			##@@Bula:## 
+			- Mi-ai zis tu vreodata ca vinzi ceva?
+		</data>
+		
+		<title>La scoala</title>
+		<data>@@ Bula, cate continente sunt? intreaba profesorul.## 
+			- Cinci. ##
+			- Numara-mi-le!## 
+			- Unu, doi, trei, patru, cinci!
+		</data>
+		
+		<title>Vin imediat!</title>
+		<data>@@ Bula, ce ai vrea sa scrie pe cruce dupa ce mori?## 
+			- Ceva simplu si concis. ##
+			- Ca de exemplu? ##
+			- VIN IMEDIAT!!!
+		</data>
+		
+		<title>Timpul</title>
+		<data>@@- Eu copiez, tu copiezi, el copiaza. Ce timp este Bulisor? ##
+			- Timpul tezelor domnu' profesor!
+		</data>
+		
+		<title>Ascunselea</title>
+		<data>@@Bula se juca cu Bubulina de-a v-ati ascunselea:## 
+				- Daca ma gasesti in 5 minute, poti sa ma saruti. 
+				Daca ma gasesti imediat, poti sa-mi faci ce vrei. 
+				Si acum, tu inchizi ochii si eu ma ascund dupa frigider!
+		</data>
+	
+		<title>Corectarea</title>
+		<data>@@- Mai, Bula, ai in catalog un 2. De ce nu il corectezi? ##
+				- Nu pot, tata. Catalogul e mereu la invatatoare.
+		</data>
+		
+		<title>Note bune..</title>
+		<data>@@- Nu inteleg, Bula, de ce tu nu capeti note bune?## 
+				- Ce vrei, tata, in clasa suntem 40, si pana sa-mi vina si mie randul, 
+				toate notele bune se termina!
+		</data>
+		
+		<title>Tabla inmultiri</title>
+		<data>@@- Mai, Bula, ai invatat tabla inmultirii? Sau stii doar ca exista? 
+			##- Invatat! Mai am o strofa!
+		</data>
+		
+		<title>Columb</title>
+		<data>@@Micul Bula rasfoieste un dictionar. La un moment dat o intreaba pe mama: 
+			##- Spune-mi, mama, ce vrea sa spuna aici: "Cristofor Columb (1451-06)"? 
+			##- Este probabil numarul lui de telefon!
+		</data>
+		
+		<title>Denis</title>
+		<data>@@Invatatoarea ii spune lui Bula: ##
+			##- Mai Bula, schimba-ti si tu numele ca daca schimbi prima litera din numele tau, iese un cuvant urat... 
+			##A doua zi vine Bula la scoala si ii spune invatatoarei: 
+			##- Gata doamna... Acuma ma cheama Denis.		
+</data>
+		
+	</banc>
+</bancuri>

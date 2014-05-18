@@ -1,0 +1,339 @@
+body
+{
+	background: url('../img/background.jpg');
+	//background:gray;
+	width:100%;
+	margin:0px;
+	padding:0px;
+	background-attachment:fixed;
+	background-position:top; 
+	
+}
+
+#head
+{
+	background: url(../img/logo.png);
+	margin-left:auto;
+	margin-right:auto;
+	width:1100px;
+	height:100px;
+	background-repeat:no-repeat;
+	background-position:left;
+
+}
+#afis
+{
+	width:100%;
+	background:orange;
+	height:5px;
+}
+
+#menu
+{	
+	width:100%;
+	height:35px;
+	text-align:center;
+	/*background:#ff7e00;*/
+	background:#6b75ee;
+	//background:black;
+}
+
+#centru
+{
+	margin-left:auto; 
+	margin-right:auto; 
+	width:670px;
+	height:35px;
+}
+.sus
+{
+	display:block;
+	width:100px;
+	height:5px;
+	float:left;
+	background:orange;
+	
+}
+
+
+.meniu
+{
+	display:block;
+	width:100px;
+	height:35px;
+	color:black;
+	text-align:center;
+	font-size:25px;
+	background:#6b75ee;
+	//background:black;
+	float:left;
+	border-left:solid 1px #5a65ef;
+}
+
+.meniu a, .meniu a:link, .meniu a:visited
+{
+	text-decoration:none;
+	color:#ffc000;
+	//color:white;
+}
+
+.meniu a:hover
+{
+	color:black;
+	background:#5a65ef;
+	display:block;
+	width:100%;
+	height:35px;
+}
+
+#container
+{
+	border-right:solid 2px #6b75ee;
+	border-left:solid 2px #6b75ee;
+	background:white;
+	margin-left:auto; 
+	margin-right:auto; 
+	width:995px;
+	height:850px;
+	//border:solid 1px silver;
+}
+
+#stg
+{
+	float:left;
+	width:196px; 
+	margin-right:10px;
+	height:700px;
+	vertical-align:top;
+}
+
+#categorii
+{
+	background:url(../img/categ.png);
+	color:blue;
+	text-align:center;
+	height:30px;
+	font-size:23px;
+	width:176px;
+	margin-top:20px;
+	margin-right:10px;
+	margin-left:10px;
+}
+
+#sub-categorii
+{
+	background:url(../img/sub-categ.jpg);
+	color:black;
+	text-align:left;
+	margin-right:10px;
+	margin-left:10px;
+	height:350px;
+	width:176px;
+	margin-top:0px;
+	padding-top:0px;
+	
+}
+
+#sub-categorii ul
+{
+	margin: 0 auto 0;
+	list-style-type:none;
+}
+#sub-categorii li { 
+ 
+    text-indent: -.7em;
+}
+
+#sub-categorii li:before {
+    content: "•";
+    color: orange; /* or whatever color you prefer */
+}
+#sub-categorii ul a
+{
+	color:black;
+	text-decoration:none;
+}
+
+
+#ads
+{
+	//background:#6b75ee;
+	background:url(../img/adds-categ.jpg);
+	color:orange;
+	text-align:left;
+	margin-right:10px;
+	margin-left:10px;
+	height:350px;
+	width:176px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#drt
+{
+	float:left;
+	width:780px;
+	height:820px;
+	//margin-top:15px;
+	//border:solid 1px silver; 
+	//background:white
+}
+#despre 
+{
+	width:500px;
+	height:650px;
+	margin-top:20px;
+	border:solid 1px black;
+	display:block;
+	background: url(../img/img005.jpg);
+}
+
+.pb
+{
+	text-indent:20px;
+	text-align:justify;
+}
+
+.banc
+{
+	border-bottom:solid 1px silver;
+	padding-left:5px;
+	padding-right:5px;
+}
+.banc a, .banc a:link, .banc a:visited
+{
+	text-decoration:none;
+	color:blue;
+}
+
+#jos
+{
+	
+	width:100%;
+	height:155px;
+	background:#5a65ef;
+	margin-left:auto; 
+	margin-right:auto;
+}
+.aprecieri
+{
+	width:40px;
+	height:40px;
+}
+#next
+{
+	float:right;
+	margin-top:10px;
+	margin-right:3px;
+}
+#prev
+{
+	float:left;
+	margin-top:10px;
+	margin-left:3px;
+}
+#copy
+{
+	width:100%; 
+	height:30px; 
+	background:black; 
+	color:white; 
+	text-align:center;
+	padding-top:3px;
+}
+.rapid
+{
+	width:295px;
+	float:left;
+	color:orange;
+	height:30px;
+	text-align:center;
+	margin-left:100px;
+	margin-right:100px;
+	font-size:22px;
+	border-bottom:solid 1px orange;
+}
+.sub_rapid
+{
+	width:160px;
+	height:118px;
+	margin-left:90px;
+	float:left;
+	text-align:center;
+}
+.sub_rapid ul
+{
+	margin:0px;
+	text-align:left;
+	list-style-type:none;
+}
+.sub_rapid li
+{ 
+    text-indent: -.7em;
+}
+
+.sub_rapid  li:before 
+{
+    content: "•";
+    color: orange; 
+}
+.sub_rapid a, .sub_rapid a:link, .sub_rapid a:visited
+{
+	text-decoration:none;
+	color:black;
+}
+.sub_rapid a:hover
+{
+	color:black;
+}
+
+
+#cont_jos
+{
+	width:994px;
+	margin-left:auto;
+	margin-right:auto;
+	//border:solid 1px black;
+}
+#inutil
+{
+	width:770px;
+	height:780px;
+	background:white;
+	margin-top:0px;
+	background: url(../img/inuil.png);
+}
+#inutil_c
+{
+	width:770px;
+	height:780px;
+	background:white;
+	margin-top:0px;
+	background: url(../img/inuil_c.jpg);
+}
+#liste
+{
+	font-size:20px;
+}
+#liste a:link,  #liste a:visited ,#liste a
+{
+	text-decoration:none;
+	color:blue;
+}
+#gata
+{
+	font-size:25px;
+	margin-left:10px;
+}
+#gata a:link,  #gata a:visited ,#gata a
+{
+	text-decoration:none;
+	color:blue;
+}
+#afis_jos
+{
+	width:100%;
+	background:orange;
+	height:5px;
+}
+

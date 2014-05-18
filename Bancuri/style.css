@@ -1,0 +1,114 @@
+
+#head
+{
+	background: url(img/banner.jpg);
+	margin-left:auto;
+	margin-right:auto;
+	width:512px;
+	height:130px;
+}
+
+#menu
+{	
+	width:100%;
+	height:35px;
+	text-align:center;
+	/*background:#ff7e00;*/
+	background:blue;
+}
+#centru
+{
+	margin-left:auto; 
+	margin-right:auto; 
+	width:315px;
+	height:35px;
+}
+.meniu
+{
+	display:block;
+	width:100px;
+	height:35px;
+	color:white;
+	text-align:center;
+	font-size:25px;
+	background:blue;
+	float:left;
+	border-left:solid 1px #03bbff;
+}
+.meniu a, .meniu a:link, .meniu a:visited
+{
+	text-decoration:none;
+	color:white;
+}
+.meniu a:hover
+{
+	color:white;
+	background:#03bbff;
+	display:block;
+	width:100%;
+	height:35px;
+}
+#container
+{
+	margin-left:auto; 
+	margin-right:auto; 
+	width:1000px;
+}
+
+#stg
+{
+
+	float:left;
+	width:186px; 
+	margin-right:10px;
+	padding:0px;
+	height:180px;
+	border:solid 1px silver;
+	background:white;
+	vertical-align:top;
+}
+#categorii
+{
+	background:orange;
+	color:blue;
+	text-align:center;
+	height:30px;
+	font-size:23px;
+	width:176px;
+	margin-right:10px;
+}
+#sub-categorii
+{
+	background:blue;
+	color:orange;
+	text-align:center;
+	margin-right:10px;
+	height:150px;
+	margin-top:0px;
+	padding-top:0px;
+
+}
+
+
+#drt
+{
+	float:left;
+	width:790px;
+	height:700px;
+	border:solid 1px silver; 
+	background:white
+}
+
+
+body
+{
+	/*background: url(img/spate.jpg);*/
+	width:100%;
+	margin:0px;
+	padding:0px;
+	background-attachment:fixed;
+	background-position:top; 
+	background-repeat:no-repeat;
+
+}
+
